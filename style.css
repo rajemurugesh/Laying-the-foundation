@@ -1,0 +1,28 @@
+.heading-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    padding: 0 20px;
+    background-color: orange;
+  }
+  
+  .logo-container img {
+    height: 40px;
+  }
+  .search input[type="text"] {
+    width: 100%;
+    max-width: 400px;
+    height: 40px;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+  }
+.user-icon{
+    height: 50px;
+    padding: 12px;
+    width: 50px;
+
+   
+  }

@@ -1,0 +1,31 @@
+{
+  "name": "laying-the-foundation",
+  "version": "1.0.0",
+  "description": "chapter-3 Laying the Foundation",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajemurugesh/Laying-the-foundation.git"
+  },
+  "author": "Rajeswari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajemurugesh/Laying-the-foundation/issues"
+  },
+  "homepage": "https://github.com/rajemurugesh/Laying-the-foundation#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
